@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+background-color: #393e46;
+}
+h1{
+
+  margin: 50px auto 0 auto;
+
+  font-size: 5.562rem;
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+
+    font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+p{
+  margin-bottom: 0;
+  color: #40514E;
+  line-height: 2;
+}
+
+
+
+
+.profile{
+  margin: 5rem 10rem 10rem auto;
+width: 50%;
+}
+.prof-img{
+  width: 25%;
+  float: right;
+}
+
+.skills{
+  width: 70%;
+  text-align: center;
+  margin: 5rem auto 1rem auto;
+}
